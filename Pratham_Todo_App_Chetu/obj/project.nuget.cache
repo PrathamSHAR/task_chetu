@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ev7dD3/IOI45ROadcCMvnyyFyKQ3BzRwDoEGROD3xyLzmorLPGsxImMlMYRsnodsz5v5IFcy3M9Ev2NGgUBEyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Pratham_Todo_App_Chetu\\Pratham_Todo_App_Chetu\\Pratham_Todo_App_Chetu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
